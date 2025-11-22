@@ -42,9 +42,9 @@ This repository contains three Python scripts implementing an optimized [**CLAHE
 
 | Script       | Description                        | Notes                                                                                   |
 | ------------ | ---------------------------------- | --------------------------------------------------------------------------------------- |
-| `script1.py` | Direct Python mode CLAHE in FIJI   | Runs without saving to disk; may slow down after repeated runs in same GUI session.     |
-| `script2.py` | Python mode CLAHE with disk save   | Saves images to disk before opening in FIJI; avoids slowdowns.                          |
-| `script3.py` | Pure Python script using ImageJ-Py | Runs outside FIJI GUI; allows explicit thread control and full parameter customization. |
+| `Fast_CLAHE_I.py` | Direct Python mode CLAHE in FIJI (GUI)   | Runs without saving to disk; may slow down after repeated runs in same GUI session.     |
+| `Fast_CLAHE_II.py` | Python mode CLAHE with disk save (GUI)  | Saves images to disk before opening in FIJI; avoids slowdowns.                          |
+| `Fast_CLAHE_IIII.py` | Pure Python script using ImageJ-Py | Runs outside FIJI GUI; allows explicit thread control and full parameter customization. |
 
 ---
 
