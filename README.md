@@ -78,4 +78,4 @@ This repository contains three Python scripts implementing an optimized [**CLAHE
 
 ## License
 
-[License file](FAST_CLAHE/LICENSE.md)
+[License file](https://github.com/JRamirez-F/FAST_CLAHE/blob/master/LICENSE)
