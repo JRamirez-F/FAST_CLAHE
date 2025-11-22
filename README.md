@@ -53,7 +53,7 @@ This repository contains three Python scripts implementing an optimized [**CLAHE
 1. Open FIJI with Python mode enabled.
 2. Load one of the scripts in the FIJI script editor.
 3. Run the script.
-4. For Script 2 and 3, specify an output path for saving processed images.
+4. For Fast_CLAHE_III, specify an output path for saving processed images.
 
 ---
 
@@ -78,4 +78,4 @@ This repository contains three Python scripts implementing an optimized [**CLAHE
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+[License file](FAST_CLAHE/LICENSE.md)
