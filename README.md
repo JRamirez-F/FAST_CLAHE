@@ -65,6 +65,7 @@ This repository contains three Python scripts implementing an optimized [**CLAHE
   * Differences are mostly minor (pixel-wise ±1 in 32-bit subtraction).
 * Current scripts support **8-bit and RGB images**.
 * 16-bit images are not fully supported; conversion to 8-bit is possible.
+* Detailed description of the script in this [post](https://forum.image.sc/t/fiji-clahe-10x-faster-for-stacks-image-sequences/117529/8?u=j_ramirez)
 
 ---
 
